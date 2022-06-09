@@ -3,6 +3,7 @@ Tutorial of Netflix Appetency: A beginner's guide
 
 ![Netflix Appetency Tutorial](https://github.com/chiragsamal/Netflix-Appetency-Tutorial/blob/main/Images/netflix.png)
 
+Read blog on Netflix Appetency here: [Netflix Appetency: A beginner’s guide](https://medium.com/@chirag6891/netflix-appetency-a-beginners-guide-9c2b9c0835f6)
 
 ### Prerequisites
  - Numpy
